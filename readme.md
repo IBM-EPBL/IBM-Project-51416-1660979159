@@ -50,5 +50,5 @@ Project Objectives:
   •	Deploy skill to generate a preview link
 Services Used:
     IBM Watson Assistant
-Technical Architecture:
+Technical Architecture: 
 
