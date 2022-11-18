@@ -13,7 +13,6 @@ PREREQUISITES:
 2.	Login to the account after creation.
 
 Prior knowledge of the following concepts:
-
 Chatbot:
 	At the most basic level, a chatbot is a computer program that simulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communication with a real person.
   
