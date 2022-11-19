@@ -4,8 +4,8 @@ BATCH ID: B8-2A4E
 TEAM LEADER: R MANIKANDAN
 TEAM MEMBER: M.JANANI  B.SRIJA  S.SRIRAM
 
-Tasks
 Project Design & Planning
+
 Ideation Phase
   •	Literature survey
   • 	Problem statement
@@ -51,4 +51,4 @@ Project Objectives:
 Services Used:
     IBM Watson Assistant
 Technical Architecture: 
-
+  The steps that involved in our project based on technology.
